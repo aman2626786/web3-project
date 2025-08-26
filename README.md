@@ -22,8 +22,9 @@ The Agricultural Loan Protocol is designed to evolve into a comprehensive DeFi e
 Future enhancements will include AI-powered risk assessment, cross-border payment capabilities, educational resources for farmers, and integration with agricultural marketplaces to create a complete farming finance ecosystem.
 
 ## Contract Address Details
+Contract id: ST1E0XR6F8V96X8GYF05BN1XZ9Y4QANPWKAX7T5X7.AgriculturalLoanProtocol
 
-*Contract deployment information will be updated here once deployed*
+<img width="1901" height="1020" alt="image" src="https://github.com/user-attachments/assets/dcaf469d-8dad-42b3-a67a-c594dead1f45" />
 
 **Testnet Details:**
 - Network: Stacks Testnet
@@ -36,6 +37,3 @@ Future enhancements will include AI-powered risk assessment, cross-border paymen
 - Contract Address: [To be added]
 - Deployer: [To be added]
 - Transaction ID: [To be added]
-
-
-<img width="1901" height="1020" alt="image" src="https://github.com/user-attachments/assets/dcaf469d-8dad-42b3-a67a-c594dead1f45" />
