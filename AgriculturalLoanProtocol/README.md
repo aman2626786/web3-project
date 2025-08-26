@@ -26,14 +26,3 @@ Contract id: ST1E0XR6F8V96X8GYF05BN1XZ9Y4QANPWKAX7T5X7.AgriculturalLoanProtocol
 
 <img width="1901" height="1020" alt="image" src="https://github.com/user-attachments/assets/dcaf469d-8dad-42b3-a67a-c594dead1f45" />
 
-**Testnet Details:**
-- Network: Stacks Testnet
-- Contract Address: [To be added]
-- Deployer: [To be added]
-- Transaction ID: [To be added]
-
-**Mainnet Details:**
-- Network: Stacks Mainnet
-- Contract Address: [To be added]
-- Deployer: [To be added]
-- Transaction ID: [To be added]
