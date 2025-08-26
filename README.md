@@ -36,3 +36,6 @@ Future enhancements will include AI-powered risk assessment, cross-border paymen
 - Contract Address: [To be added]
 - Deployer: [To be added]
 - Transaction ID: [To be added]
+
+
+<img width="1901" height="1020" alt="image" src="https://github.com/user-attachments/assets/dcaf469d-8dad-42b3-a67a-c594dead1f45" />
